@@ -24,5 +24,6 @@ public class AdventOfCodeQ1
       
       //output answer to console
       System.out.println(sum);
+      
    }
 }
